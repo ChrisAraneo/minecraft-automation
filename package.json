@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-automation",
+  "version": "0.1.0",
+  "description": "Simple Minecraft bot created using Mineflayer and its JavaScript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAraneo/minecraft-automation.git"
+  },
+  "keywords": [
+    "mineflayer"
+  ],
+  "author": "Krzysztof Pająk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisAraneo/minecraft-automation/issues"
+  },
+  "homepage": "https://github.com/ChrisAraneo/minecraft-automation#readme"
+}
