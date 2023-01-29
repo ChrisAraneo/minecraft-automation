@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ChrisAraneo/minecraft-automation/issues"
   },
-  "homepage": "https://github.com/ChrisAraneo/minecraft-automation#readme"
+  "homepage": "https://github.com/ChrisAraneo/minecraft-automation#readme",
+  "dependencies": {
+    "mineflayer": "^4.8.0"
+  }
 }
